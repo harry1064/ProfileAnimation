@@ -14,6 +14,15 @@
 		A37B2A821B775DD90070DCD5 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A37B2A811B775DD90070DCD5 /* Images.xcassets */; };
 		A37B2A851B775DD90070DCD5 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = A37B2A831B775DD90070DCD5 /* LaunchScreen.xib */; };
 		A37B2A911B775DD90070DCD5 /* ProfileAnimationTests.m in Sources */ = {isa = PBXBuildFile; fileRef = A37B2A901B775DD90070DCD5 /* ProfileAnimationTests.m */; };
+		A37B2A9B1B775E3E0070DCD5 /* backgroundimage.png in Resources */ = {isa = PBXBuildFile; fileRef = A37B2A9A1B775E3E0070DCD5 /* backgroundimage.png */; };
+		A37B2A9D1B775E650070DCD5 /* pro.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = A37B2A9C1B775E650070DCD5 /* pro.jpeg */; };
+		A37B2A9F1B775E8C0070DCD5 /* editPencil.png in Resources */ = {isa = PBXBuildFile; fileRef = A37B2A9E1B775E8C0070DCD5 /* editPencil.png */; };
+		A37B2AA11B775EA20070DCD5 /* square.png in Resources */ = {isa = PBXBuildFile; fileRef = A37B2AA01B775EA20070DCD5 /* square.png */; };
+		A37B2AA31B775EB80070DCD5 /* list_view.png in Resources */ = {isa = PBXBuildFile; fileRef = A37B2AA21B775EB80070DCD5 /* list_view.png */; };
+		A37B2AA51B775ECC0070DCD5 /* grid_view.png in Resources */ = {isa = PBXBuildFile; fileRef = A37B2AA41B775ECC0070DCD5 /* grid_view.png */; };
+		A37B2AA71B775EEC0070DCD5 /* buckett.png in Resources */ = {isa = PBXBuildFile; fileRef = A37B2AA61B775EEC0070DCD5 /* buckett.png */; };
+		A37B2AAB1B7761350070DCD5 /* FeedTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = A37B2AA91B7761350070DCD5 /* FeedTableViewCell.m */; };
+		A37B2AAC1B7761350070DCD5 /* FeedTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = A37B2AAA1B7761350070DCD5 /* FeedTableViewCell.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +49,16 @@
 		A37B2A8A1B775DD90070DCD5 /* ProfileAnimationTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ProfileAnimationTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A37B2A8F1B775DD90070DCD5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A37B2A901B775DD90070DCD5 /* ProfileAnimationTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ProfileAnimationTests.m; sourceTree = "<group>"; };
+		A37B2A9A1B775E3E0070DCD5 /* backgroundimage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = backgroundimage.png; sourceTree = "<group>"; };
+		A37B2A9C1B775E650070DCD5 /* pro.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pro.jpeg; sourceTree = "<group>"; };
+		A37B2A9E1B775E8C0070DCD5 /* editPencil.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = editPencil.png; sourceTree = "<group>"; };
+		A37B2AA01B775EA20070DCD5 /* square.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = square.png; sourceTree = "<group>"; };
+		A37B2AA21B775EB80070DCD5 /* list_view.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = list_view.png; sourceTree = "<group>"; };
+		A37B2AA41B775ECC0070DCD5 /* grid_view.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = grid_view.png; sourceTree = "<group>"; };
+		A37B2AA61B775EEC0070DCD5 /* buckett.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = buckett.png; sourceTree = "<group>"; };
+		A37B2AA81B7761350070DCD5 /* FeedTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FeedTableViewCell.h; sourceTree = "<group>"; };
+		A37B2AA91B7761350070DCD5 /* FeedTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FeedTableViewCell.m; sourceTree = "<group>"; };
+		A37B2AAA1B7761350070DCD5 /* FeedTableViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = FeedTableViewCell.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +100,16 @@
 		A37B2A731B775DD90070DCD5 /* ProfileAnimation */ = {
 			isa = PBXGroup;
 			children = (
+				A37B2A9A1B775E3E0070DCD5 /* backgroundimage.png */,
+				A37B2AA61B775EEC0070DCD5 /* buckett.png */,
+				A37B2AA21B775EB80070DCD5 /* list_view.png */,
+				A37B2AA41B775ECC0070DCD5 /* grid_view.png */,
+				A37B2AA01B775EA20070DCD5 /* square.png */,
+				A37B2A9E1B775E8C0070DCD5 /* editPencil.png */,
+				A37B2A9C1B775E650070DCD5 /* pro.jpeg */,
+				A37B2AA81B7761350070DCD5 /* FeedTableViewCell.h */,
+				A37B2AA91B7761350070DCD5 /* FeedTableViewCell.m */,
+				A37B2AAA1B7761350070DCD5 /* FeedTableViewCell.xib */,
 				A37B2A781B775DD90070DCD5 /* AppDelegate.h */,
 				A37B2A791B775DD90070DCD5 /* AppDelegate.m */,
 				A37B2A7B1B775DD90070DCD5 /* ViewController.h */,
@@ -199,8 +228,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A37B2A9F1B775E8C0070DCD5 /* editPencil.png in Resources */,
+				A37B2A9D1B775E650070DCD5 /* pro.jpeg in Resources */,
 				A37B2A801B775DD90070DCD5 /* Main.storyboard in Resources */,
+				A37B2AA11B775EA20070DCD5 /* square.png in Resources */,
+				A37B2AA51B775ECC0070DCD5 /* grid_view.png in Resources */,
+				A37B2A9B1B775E3E0070DCD5 /* backgroundimage.png in Resources */,
+				A37B2AA71B775EEC0070DCD5 /* buckett.png in Resources */,
 				A37B2A851B775DD90070DCD5 /* LaunchScreen.xib in Resources */,
+				A37B2AAC1B7761350070DCD5 /* FeedTableViewCell.xib in Resources */,
+				A37B2AA31B775EB80070DCD5 /* list_view.png in Resources */,
 				A37B2A821B775DD90070DCD5 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -220,6 +257,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A37B2A7D1B775DD90070DCD5 /* ViewController.m in Sources */,
+				A37B2AAB1B7761350070DCD5 /* FeedTableViewCell.m in Sources */,
 				A37B2A7A1B775DD90070DCD5 /* AppDelegate.m in Sources */,
 				A37B2A771B775DD90070DCD5 /* main.m in Sources */,
 			);
